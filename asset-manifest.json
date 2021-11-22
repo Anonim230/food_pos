@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc14815f.chunk.css",
+    "main.js": "/static/js/main.739c56b5.chunk.js",
+    "main.js.map": "/static/js/main.739c56b5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c0de5fab.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c0de5fab.js.map",
+    "static/js/2.6754720b.chunk.js": "/static/js/2.6754720b.chunk.js",
+    "static/js/2.6754720b.chunk.js.map": "/static/js/2.6754720b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.fc14815f.chunk.css.map": "/static/css/main.fc14815f.chunk.css.map",
+    "static/js/2.6754720b.chunk.js.LICENSE.txt": "/static/js/2.6754720b.chunk.js.LICENSE.txt",
+    "static/media/Discount.1eb28198.svg": "/static/media/Discount.1eb28198.svg",
+    "static/media/Exit.38d15a9a.svg": "/static/media/Exit.38d15a9a.svg",
+    "static/media/Home.20ad93ca.svg": "/static/media/Home.20ad93ca.svg",
+    "static/media/Main.986be607.svg": "/static/media/Main.986be607.svg",
+    "static/media/Message.ee7bb989.svg": "/static/media/Message.ee7bb989.svg",
+    "static/media/Notification.db25c574.svg": "/static/media/Notification.db25c574.svg",
+    "static/media/Settings.bb53b96e.svg": "/static/media/Settings.bb53b96e.svg",
+    "static/media/Thumbnail.adb50030.svg": "/static/media/Thumbnail.adb50030.svg",
+    "static/media/Dishes.scss": "/static/media/search.6b8b4dba.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0de5fab.js",
+    "static/js/2.6754720b.chunk.js",
+    "static/css/main.fc14815f.chunk.css",
+    "static/js/main.739c56b5.chunk.js"
+  ]
+}
